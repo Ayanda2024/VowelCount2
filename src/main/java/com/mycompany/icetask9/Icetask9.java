@@ -13,7 +13,7 @@ public class Icetask9{
     public static void main(String[] args) {
         //Declarations
         String Sentence;
-        String lastname;
+        String language;
         //creating an object for the Scanner
         Scanner sc=new Scanner(System.in);
         
